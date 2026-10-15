@@ -1,4 +1,3 @@
 ﻿  sp_pract10_Savitsin.cpp
-C:\Users\st310-02\Desktop\Савицин ПР-31\sp_pract10_Savitsin\sp_pract10_Savitsin\sp_pract10_Savitsin\sp_pract10_Savitsin.cpp(62,7): warning C4551: в вызове функции отсутствует список аргументов
-C:\Users\st310-02\Desktop\Савицин ПР-31\sp_pract10_Savitsin\sp_pract10_Savitsin\sp_pract10_Savitsin\sp_pract10_Savitsin.cpp(176,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  sp_pract10_Savitsin.vcxproj -> C:\Users\st310-02\Desktop\Савицин ПР-31\sp_pract10_Savitsin\sp_pract10_Savitsin\x64\Debug\sp_pract10_Savitsin.exe
+C:\Program Files (x86)\projects\sp_pract10_Savitsin\sp_pract10_Savitsin\sp_pract10_Savitsin\sp_pract10_Savitsin.cpp(619,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sp_pract10_Savitsin.vcxproj -> C:\Program Files (x86)\projects\sp_pract10_Savitsin\sp_pract10_Savitsin\x64\Debug\sp_pract10_Savitsin.exe
