@@ -39,7 +39,7 @@ public:
 	{
 		head = nullptr;
 	}
-public:
+
 	Node* push_front(SegmentSnake segment)
 	{
 		Node* ptr = new Node(segment);
@@ -113,7 +113,7 @@ public:
 			return false;
 		}
 
-		clear();
+		Clear();
 
 		file.read(reinterpret_cast<char*>(&score), sizeof(score));
 		file.read(reinterpret_cast<char*>(&lastKey), sizeof(lastKey));
@@ -163,7 +163,7 @@ public:
 
 		if (loaded == false)
 		{
-			clear();
+			Clear();
 
 			score = 0;
 			appleX = -1;
@@ -503,7 +503,7 @@ public:
 		}
 	}
 
-	void clear()
+	void Clear()
 	{
 		while (head != nullptr)
 		{
